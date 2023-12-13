@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCbf-R3vdbtG8GsSUdfYqnsNn6vGwH4fvQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1025592660012</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.hypergaragesale</string>
+	<key>PROJECT_ID</key>
+	<string>hypergaragesale-57232</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hypergaragesale-57232.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1025592660012:ios:94c5a7af9368715453c189</string>
+</dict>
+</plist>
